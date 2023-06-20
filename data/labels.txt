@@ -1,0 +1,7 @@
+table
+window
+step
+chair
+door
+wall
+book
